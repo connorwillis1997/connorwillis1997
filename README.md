@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @connorwillis1997
+- 👋 Hi, I’m @connorwillis1997. Web3 recruiter by day, wannabe coder by night!
 - 👀 I’m interested in the whole crypto/blockchain space.
 - 🌱 I’m currently learning JavaScript/TypeScript.
-- 💞️ I’m looking to collaborate on some cool ideas!
 - 📫 How to reach me: Telegram: @conwilconnect
 
